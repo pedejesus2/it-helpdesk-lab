@@ -14,9 +14,14 @@ Hypervisor: Oracle VirtualBox
 Guest OS: Windows 11
 
 Launched Oracle VirtualBox and created a Windows 11 virtual machine, configured memory and storage use. 
+
 4GB of memory
 
 20GB of storage
+
+Then, Windows Setup screen is presented, chose default English (United States) Language option and Time & currency format
+
+Clicked > Next to continue setup.
 
 <img width="1121" height="851" alt="image" src="https://github.com/user-attachments/assets/40bcc0c6-a78e-4912-a7c9-5dbc63a93715" />
 
