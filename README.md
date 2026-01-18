@@ -25,3 +25,8 @@ Clicked > Next to continue setup.
 
 <img width="1121" height="851" alt="image" src="https://github.com/user-attachments/assets/40bcc0c6-a78e-4912-a7c9-5dbc63a93715" />
 
+No errors while setting up the virtual machine, finished setup and virtual machine restarted. 
+
+After setting up Language again, some telemetry options asked by Windows. It is downloading updates.
+
+<img width="1176" height="846" alt="image" src="https://github.com/user-attachments/assets/f83b4748-20c6-4f29-a014-9f9f780dc9e5" />
