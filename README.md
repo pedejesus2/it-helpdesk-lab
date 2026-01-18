@@ -79,3 +79,7 @@ After all of this, I verified the settings storage screen and storage is now rec
 
 <img width="1137" height="853" alt="image" src="https://github.com/user-attachments/assets/88d7f411-4754-40b5-8ef1-c44a0a53a086" />
 
+Then, went to the updates section, selected install all option to download and install important Windows Updates
+
+<img width="1129" height="829" alt="image" src="https://github.com/user-attachments/assets/b5159d82-eda3-4041-b37d-6423fe7a0844" />
+
