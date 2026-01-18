@@ -47,3 +47,35 @@ We close down the VM, choose media in the top menu. Hard Disks and while the har
 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8e10ebc0-b6f1-487e-a18c-549480c7e972" />
 
+Added up to 55GB but it will not be visible until I manage it inside the VM.
+
+Fixed this by putting this commands into CMD using admin rights:
+
+diskpart
+
+list disk
+
+select disk 0
+
+list partition
+
+Partition 1 → System Reserved (100 MB)
+
+Partition 2 → C: (19 GB)
+
+Partition 3 → Recovery (773 MB) ← THIS ONE
+
+select partition 3
+
+delete partition override
+
+select partition 2
+
+extend
+
+exit
+
+After all of this, I verified the settings storage screen and storage is now recogized by Windows. Also on Disk Management you are able to see the same information.
+
+<img width="1137" height="853" alt="image" src="https://github.com/user-attachments/assets/88d7f411-4754-40b5-8ef1-c44a0a53a086" />
+
