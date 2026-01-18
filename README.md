@@ -43,4 +43,7 @@ Yes, as confirmed. Storgage is running low. Since this is a Windows 11 VM, still
 
 Fix Aplied: I am going to be reseting the VM, actually shutting it down. Go to the VM settings and set up a much higher value of storage, considering how much I have to share with this VM.
 
+We close down the VM, choose media in the top menu. Hard Disks and while the hard disk selected. We select properties and move the slider or write down how much storage you want to add up.
+
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8e10ebc0-b6f1-487e-a18c-549480c7e972" />
 
