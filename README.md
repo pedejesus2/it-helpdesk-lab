@@ -83,3 +83,10 @@ Then, went to the updates section, selected install all option to download and i
 
 <img width="1129" height="829" alt="image" src="https://github.com/user-attachments/assets/b5159d82-eda3-4041-b37d-6423fe7a0844" />
 
+While booting up the VM, an error ocurred: <img width="329" height="151" alt="image" src="https://github.com/user-attachments/assets/6d1578d3-fbcd-4f21-8dc8-7e2160a5a09a" />
+
+
+
+
+
+
