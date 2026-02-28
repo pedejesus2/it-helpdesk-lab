@@ -83,7 +83,18 @@ Then, went to the updates section, selected install all option to download and i
 
 <img width="1129" height="829" alt="image" src="https://github.com/user-attachments/assets/b5159d82-eda3-4041-b37d-6423fe7a0844" />
 
-While booting up the VM, an error ocurred: <img width="329" height="151" alt="image" src="https://github.com/user-attachments/assets/6d1578d3-fbcd-4f21-8dc8-7e2160a5a09a" />
+While booting up the VM, an error ocurred: 
+
+<img width="329" height="151" alt="image" src="https://github.com/user-attachments/assets/6d1578d3-fbcd-4f21-8dc8-7e2160a5a09a" />
+
+Applied a fix, using the command prompt, this command: 
+
+<img width="969" height="506" alt="image" src="https://github.com/user-attachments/assets/2a1956e2-ba06-4d5c-a4f5-026607e0bc3e" />
+
+Afterwards, tried to start the VM again, without any issues the VM Launched. 
+
+
+
 
 
 
